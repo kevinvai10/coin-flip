@@ -1,0 +1,14 @@
+.btn{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    border-color: #000;
+    backface-visibility: hidden;
+    transform: translateZ( 0 );
+    transition: transform .25s ease-out;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: bold;
+    margin-top: 15px;
+}
