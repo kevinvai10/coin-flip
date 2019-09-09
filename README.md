@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Simple Coin Flip App
 
 To help you make important decisions.
@@ -8,3 +6,4 @@ To help you make important decisions.
 
 yarn install
 yarn start
+
